@@ -34,7 +34,7 @@ class FeedbackOverlayScreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'Tap to Record Feedback', // Changed label text
+                  'Ta to Record Feedback', // Changed label text
                   style: TextStyle(fontSize: 20),
                 ),
               ],
