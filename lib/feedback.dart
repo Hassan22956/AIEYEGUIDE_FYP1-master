@@ -11,7 +11,7 @@ class FeedbackOverlayScreen extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           const Text(
-            'Provide your feedback here!',
+            'provide your feedback here!',
             style: TextStyle(fontSize: 25),
           ),
           const SizedBox(height: 50),
